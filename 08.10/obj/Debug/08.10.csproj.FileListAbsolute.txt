@@ -1,0 +1,8 @@
+E:\проекты\08.10\08.10\bin\Debug\08.10.exe.config
+E:\проекты\08.10\08.10\bin\Debug\08.10.exe
+E:\проекты\08.10\08.10\bin\Debug\08.10.pdb
+E:\проекты\08.10\08.10\obj\Debug\08.10.csproj.AssemblyReference.cache
+E:\проекты\08.10\08.10\obj\Debug\08.10.csproj.SuggestedBindingRedirects.cache
+E:\проекты\08.10\08.10\obj\Debug\08.10.csproj.CoreCompileInputs.cache
+E:\проекты\08.10\08.10\obj\Debug\08.10.exe
+E:\проекты\08.10\08.10\obj\Debug\08.10.pdb
