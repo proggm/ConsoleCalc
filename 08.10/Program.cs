@@ -30,6 +30,9 @@ namespace _08._10
                 case 4:
                     Console.WriteLine("Результат: " + Division(first, second));
                     break;
+                default:
+                    Console.WriteLine("Вы ввели неверное значение!");
+                    break;
             }
                 Console.ReadKey();
         }
@@ -47,7 +50,15 @@ namespace _08._10
         }
         public static double Division( int seven, int eight)
         {
-            return seven / eight;
+            if (eight != 0)
+            {
+                return seven / eight;
+            }
+            else
+            {
+                Console.WriteLine("На ноль делить нельзя!");
+                return eight;
+            }
         }
     }
 }
